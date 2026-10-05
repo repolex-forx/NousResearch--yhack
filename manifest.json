@@ -1,0 +1,17 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "yhack",
+  "versions": [
+    {
+      "commit": "8a1c0e38a34a66d5953503c674a32a697a64297a",
+      "parsed_at": "2026-10-05T09:50:57.562036+00:00",
+      "tag": "main",
+      "filetree": "filetree/8a1c0e38a34a66d5953503c674a32a697a64297a.nq.gz"
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
