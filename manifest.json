@@ -7,7 +7,10 @@
       "commit": "8a1c0e38a34a66d5953503c674a32a697a64297a",
       "parsed_at": "2026-10-05T09:50:57.562036+00:00",
       "tag": "main",
-      "filetree": "filetree/8a1c0e38a34a66d5953503c674a32a697a64297a.nq.gz"
+      "filetree": "filetree/8a1c0e38a34a66d5953503c674a32a697a64297a.nq.gz",
+      "ast": [
+        "aggregate/ast/8a1c0e38a34a66d5953503c674a32a697a64297a/chunk-001.nq.gz"
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
