@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "yhack",
+  "versions": [
+    {
+      "commit": "8a1c0e38a34a66d5953503c674a32a697a64297a",
+      "tag": "main",
+      "parsed_at": "2026-10-08T11:07:38.725677+00:00"
+    }
+  ]
+}
